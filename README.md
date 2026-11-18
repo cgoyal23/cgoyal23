@@ -1,5 +1,7 @@
 # Hi, I'm Chirag Goyal 👋
 
+🌐 **[Visit my portfolio](https://chirag-portfolio-1.netlify.app/)**
+
 ### Software engineering · Systems · Problem solving
 
 I'm interested in building useful software and understanding how it works under the hood. My projects explore full-stack development, concurrent systems, algorithms, and applied machine learning.
